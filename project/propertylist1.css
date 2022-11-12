@@ -1,0 +1,38 @@
+
+.container1-fluid{
+    margin-top: 80px;
+}
+span{
+    height:2px;
+    margin:2px;
+    padding-right:8px;
+    padding-left:8px;
+    padding-top : 4px;
+    padding-bottom:4px;
+    border: 2px solid black;
+    border-radius:35px;
+   
+   
+}
+
+
+.button1{
+    background-color: cyan;
+    width:200px;
+    height: 50px;
+    border:0px;
+    
+
+}
+.design{
+    background-color: white;
+    border:2px ;
+    box-shadow: 5px 5px 5px 5px  rgb(227, 217, 217);
+}
+.fa-star {
+    color: red;
+}
+
+.fa-heart {
+    color: red;
+}
